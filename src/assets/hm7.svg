@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <line x1="0" x2="100" y1="200" y2="200" stroke="white" />
+    <line x1="50" x2="50" y1="200" y2="000" stroke="white" />
+    <line x1="50" x2="150" y1="0" y2="0" stroke="white" />
+    <line x1="50" x2="80" y1="30" y2="0" stroke="white" />
+    <line x1="150" x2="150" y1="0" y2="25" stroke="white" />
+    <circle r="12.5" cx="150" cy="37.5" stroke="white" fill="none"/>
+    <line x1="150" x2="150" y1="50" y2="100" stroke="white"/>
+    <line x1="150" x2="170" y1="100" y2="150" stroke="white"/>
+    <line x1="150" x2="130" y1="100" y2="150" stroke="white"/>
+    <line x1="150" x2="120" y1="50" y2="90" stroke="white"/>
+    <line x1="150" x2="180" y1="50" y2="90" stroke="white"/>
+    <line x1="144" x2="148" y1="34" y2="38" stroke="white"/>
+    <line x1="148" x2="144" y1="34" y2="38" stroke="white"/>
+    <line x1="152" x2="156" y1="34" y2="38" stroke="white"/>
+    <line x1="156" x2="152" y1="34" y2="38" stroke="white"/>
+    <circle r="1" cx="154" cy="36" fill="white"/>
+    <circle r="1" cx="146" cy="36" fill="white"/>
+</svg>

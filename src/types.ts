@@ -1,0 +1,28 @@
+export type LettersSet = {
+  A: boolean;
+  B: boolean;
+  C: boolean;
+  D: boolean;
+  E: boolean;
+  F: boolean;
+  G: boolean;
+  H: boolean;
+  I: boolean;
+  J: boolean;
+  K: boolean;
+  L: boolean;
+  M: boolean;
+  N: boolean;
+  O: boolean;
+  P: boolean;
+  Q: boolean;
+  R: boolean;
+  S: boolean;
+  T: boolean;
+  U: boolean;
+  V: boolean;
+  W: boolean;
+  X: boolean;
+  Y: boolean;
+  Z: boolean;
+};
